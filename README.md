@@ -1,10 +1,9 @@
 
   
-![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=FFC0CB&height=200&text=Welcome%20to%20My%20Github!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Chaeyoung%20Lee&descSize=30&descAlign=70&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=FFC0CB&height=250&text=Welcome%20to%20My%20Github!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35&desc=I'm%20Chaeyoung&descSize=30&descAlignY=60)
 
-<h1>🙋🏻‍♀️ Hello</h1>
-<p>
-
+## 🙋🏻‍♀️ Hi there ❗
+<img src="/Github-profilephoto2.jpg" align="right" height="300" />
 <br>
 <br>
 
