@@ -1,4 +1,9 @@
-# Hi, this is cylee 🎶
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi&nbsp;This&nbsp;is&nbsp;cylee&fontSize=50&animation=fadeIn&fontAlignY=40)
+</div>
+
+
 
 <h2>👩‍💻 Skills </h1>
 <h4>Platforms & Languages</h3>
@@ -12,6 +17,7 @@
   <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
   <br/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
