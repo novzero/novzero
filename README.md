@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, this is cylee 🎶
+
+<h2>👩‍💻 Skills </h1>
+<h4>Platforms & Languages</h3>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 
 <!--
 **novzero/novzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
