@@ -1,14 +1,24 @@
-
-  
-![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=FFC0CB&height=250&text=Welcome%20to%20My%20Github!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35&desc=I'm%20Chaeyoung&descSize=30&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=FFC0CB&height=300&text=Welcome%20to%20My%20Github!&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=I'm%20Chaeyoung&descSize=25&descAlignY=58&animation=fadeIn)
 
 ## 🙋🏻‍♀️ Hi there ❗
-<img src="/Github-profilephoto2.jpg" align="right" height="300" />
-<br>
-<br>
+<img src="./images/Github-profilephoto2.jpg" align="right" height="300" style="border-radius: 50%;"/>
 
-</p>
+<samp>I'm Chaeyoung Lee from 🇰🇷 Republic of Korea. You can call me **Chaeyoung** !! <br>
+I majored in software studies at Korea National University of Transportaion.👩🏻‍🎓<br>
+I'm studying hard to be a **Full Stack Developer**.✏️ And I like to challenge myself!🎶 <br>
 
+***Recent Challenges*** <br>
+Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
+
+### Who am I ?
+- Graduated from Korea National University of Transportaion.🎓
+- My personality type is **ENTJ**, the bold leader.
+- 
+- 
+- Big Fan of Baseball ⚾
+
+
+<br>
 <h2>👩🏻‍💻 Skills </h1>
 <h3>🧩 Platforms & Languages</h3>
 <p>
@@ -41,6 +51,10 @@
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>  
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/>  
+  <br>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe PremierePro-9999FF?style=flat-square&logo=Adobe PremierePro&logoColor=white"/>  
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFC0CB)
