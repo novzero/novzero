@@ -12,13 +12,15 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnovzero%2Fhit-counter&count_bg=%23FF4F4F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Who am I ?
+### 💁🏻‍♀️ About me ?
 - Graduated from Korea National University of Transportaion.🎓
 - My personality type is **ENTJ**, the bold leader.
-- 
-- 
+- Responsible and never giving up
 - Big Fan of Baseball ⚾
-
+- MY SNS 👇🏻 <br>
+<a href="https://www.instagram.com/315day_?igsh=OWx3bm5rNGNkMzF1&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://m.blog.naver.com/xxyng"><img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
+<!-- 개인적인 일상 sns 계정 나중에 수정할 수 있다면 수정하자!! -->
 
 <br>
 <h2>👩🏻‍💻 Skills </h1>
