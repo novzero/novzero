@@ -3,7 +3,7 @@
 ## 🙋🏻‍♀️ Hi there ❗
 <img src="./images/Github-profilephoto2.jpg" align="right" height="300" style="border-radius: 50%;"/>
 
-<samp>I'm Chaeyoung Lee from 🇰🇷 Republic of Korea. You can call me **Chaeyoung** !! <br>
+<samp>I'm Chaeyoung Lee from 🇰🇷 Republic of Korea. You can call me **Chaeyoung** :D !! <br>
 I majored in software studies at Korea National University of Transportaion.👩🏻‍🎓<br>
 I'm studying hard to be a **Full Stack Developer**.✏️ And I like to challenge myself!🎶 <br>
 
