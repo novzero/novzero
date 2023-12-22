@@ -10,6 +10,8 @@ I'm studying hard to be a **Full Stack Developer**.✏️ And I like to challeng
 ***Recent Challenges*** <br>
 Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnovzero%2Fhit-counter&count_bg=%23FF4F4F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Who am I ?
 - Graduated from Korea National University of Transportaion.🎓
 - My personality type is **ENTJ**, the bold leader.
