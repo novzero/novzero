@@ -25,7 +25,7 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
 
 [![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)  
 
-![novzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=novzero&show_icons=true&theme=onedark&hide_border=true)
+![novzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=novzero&show_icons=true&theme=buefy)
 
 <br>
 <h2>👩🏻‍💻 Skills </h1>
