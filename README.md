@@ -69,7 +69,9 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
 [![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)&nbsp;&nbsp;&nbsp;
 [![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=35.1796&lon=129.0756)](https://weather-badge.vercel.app//api/badge?lat=35.1796&lon=129.0756)
 
+<br>
 
+## 💻 Github
 ![novzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=novzero&show_icons=true&theme=buefy)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFC0CB)
