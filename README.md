@@ -22,15 +22,9 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
  <a href="https://m.blog.naver.com/xxyng"><img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
 <!-- 개인적인 일상 sns 계정 나중에 수정할 수 있다면 수정하자!! -->
 
-[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=36.3504&lon=127.3845)](https://weather-badge.vercel.app//api/badge?lat=36.3504&lon=127.3845)&nbsp;&nbsp;&nbsp;
-[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)&nbsp;&nbsp;&nbsp;
-[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=35.1796&lon=129.0756)](https://weather-badge.vercel.app//api/badge?lat=35.1796&lon=129.0756)
-
-
-![novzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=novzero&show_icons=true&theme=buefy)
-
 <br>
-<h2>👩🏻‍💻 Skills </h1>
+
+## 👩🏻‍💻 Skills
 <h3>🧩 Platforms & Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -67,5 +61,15 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe PremierePro-9999FF?style=flat-square&logo=Adobe PremierePro&logoColor=white"/>  
 </p>
+
+<br>
+
+## ✨ Weather ☀️☁️🌧️🌨️
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=36.3504&lon=127.3845)](https://weather-badge.vercel.app//api/badge?lat=36.3504&lon=127.3845)&nbsp;&nbsp;&nbsp;
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)&nbsp;&nbsp;&nbsp;
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=35.1796&lon=129.0756)](https://weather-badge.vercel.app//api/badge?lat=35.1796&lon=129.0756)
+
+
+![novzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=novzero&show_icons=true&theme=buefy)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFC0CB)
