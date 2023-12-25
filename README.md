@@ -22,6 +22,11 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
  <a href="https://m.blog.naver.com/xxyng"><img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
 <!-- 개인적인 일상 sns 계정 나중에 수정할 수 있다면 수정하자!! -->
 
+
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)  
+
+![novzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=novzero&show_icons=true&theme=onedark&hide_border=true)
+
 <br>
 <h2>👩🏻‍💻 Skills </h1>
 <h3>🧩 Platforms & Languages</h3>
