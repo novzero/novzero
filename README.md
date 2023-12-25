@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=FFC0CB&height=300&text=Welcome%20to%20My%20Github!&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=I'm%20Chaeyoung%20'◡'&descSize=25&descAlignY=58&animation=fadeIn)
 
 ## 🙋🏻‍♀️ Hi there ❗
-<img src="./images/Github-profilephoto2.jpg" align="right" height="290"/>
+<img src="./images/Github-profilephoto2.jpg" align="right" height="300"/>
 
 <samp>I'm Chaeyoung Lee from 🇰🇷 Republic of Korea. You can call me **Chaeyoung** !! <br>
 I majored in software studies at Korea National University of Transportaion.👩🏻‍🎓<br>
