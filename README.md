@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=FFC0CB&height=300&text=Welcome%20to%20My%20Github!&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=I'm%20Chaeyoung%20'◡'&descSize=25&descAlignY=58&animation=fadeIn)
 
 ## 🙋🏻‍♀️ Hi there ❗
-<img src="./images/Github-profilephoto2.jpg" align="right" height="300" style="border-radius: 50%;"/>
+<img src="./images/Github-profilephoto2.jpg" align="right" height="300"/>
 
 <samp>I'm Chaeyoung Lee from 🇰🇷 Republic of Korea. You can call me **Chaeyoung** !! <br>
 I majored in software studies at Korea National University of Transportaion.👩🏻‍🎓<br>
@@ -22,8 +22,10 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
  <a href="https://m.blog.naver.com/xxyng"><img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
 <!-- 개인적인 일상 sns 계정 나중에 수정할 수 있다면 수정하자!! -->
 
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=36.3504&lon=127.3845)](https://weather-badge.vercel.app//api/badge?lat=36.3504&lon=127.3845)&nbsp;&nbsp;&nbsp;
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)&nbsp;&nbsp;&nbsp;
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=35.1796&lon=129.0756)](https://weather-badge.vercel.app//api/badge?lat=35.1796&lon=129.0756)
 
-[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)  
 
 ![novzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=novzero&show_icons=true&theme=buefy)
 
