@@ -14,10 +14,10 @@ Swim 🏊🏻‍♀️ , Video Editing 📽️ and Design 💻
 
 ### 💁🏻‍♀️ About me ?
 - Graduated from Korea National University of Transportaion.🎓
-- My personality type is **ENTJ**, the bold leader.
+- My personality type is **ENTJ**, the bold leader.  
 - Responsible and never giving up
 - Big Fan of Baseball ⚾
-- MY SNS 👇🏻 <br>
+- MY SNS 👉🏻
 <a href="https://www.instagram.com/315day_?igsh=OWx3bm5rNGNkMzF1&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://m.blog.naver.com/xxyng"><img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
 <!-- 개인적인 일상 sns 계정 나중에 수정할 수 있다면 수정하자!! -->
